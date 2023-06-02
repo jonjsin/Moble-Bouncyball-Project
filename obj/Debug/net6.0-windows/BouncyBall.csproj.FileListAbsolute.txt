@@ -1,0 +1,56 @@
+C:\PJH\CS\project\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.exe
+C:\PJH\CS\project\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.deps.json
+C:\PJH\CS\project\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.runtimeconfig.json
+C:\PJH\CS\project\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.dll
+C:\PJH\CS\project\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.pdb
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.AssemblyReference.cache
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.GenerateResource.cache
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.AssemblyInfoInputs.cache
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.AssemblyInfo.cs
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.CoreCompileInputs.cache
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.dll
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\refint\BouncyBall.dll
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.pdb
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.genruntimeconfig.cache
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\ref\BouncyBall.dll
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Properties.Resources.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage2.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage3.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.MainDisplay.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.SelectDisplay.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.VictoryDisplay.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage4.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage5.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage6.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage7.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage8.resources
+C:\PJH\CS\project\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage1.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.exe
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.deps.json
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.runtimeconfig.json
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.dll
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\bin\Debug\net6.0-windows\BouncyBall.pdb
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.AssemblyReference.cache
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.MainDisplay.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Properties.Resources.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.SelectDisplay.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage1.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage2.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage3.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage4.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage5.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage6.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage7.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.Stage8.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.VictoryDisplay.resources
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.GenerateResource.cache
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.AssemblyInfoInputs.cache
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.AssemblyInfo.cs
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.csproj.CoreCompileInputs.cache
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.dll
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\refint\BouncyBall.dll
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.pdb
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\BouncyBall.genruntimeconfig.cache
+C:\Users\jo\Documents\카카오톡 받은 파일\BouncyBall\BouncyBall\obj\Debug\net6.0-windows\ref\BouncyBall.dll
